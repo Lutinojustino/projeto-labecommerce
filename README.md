@@ -12,6 +12,9 @@ Ele tem uma particularidade: seus requisitos são implementados ao longo dos exe
 - Knex
 - Postman
 
+documentação do projeto (https://documenter.getpostman.com/view/24823345/2s93Y5R1QZ;)
+
+
 # Banco de dados
 ![image](https://user-images.githubusercontent.com/29845719/214396608-ddcfd097-e615-44f9-acbe-f815f9abb83f.png)
 https://dbdiagram.io/d/63c6e8e5296d97641d7a4666
